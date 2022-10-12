@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FirstFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbose"
+    }
+  }
+}
