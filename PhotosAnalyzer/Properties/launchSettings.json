@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "FirstFunctionApp": {
+    "PhotosAnalyzer": {
       "commandName": "Project",
       "commandLineArgs": "--verbose"
     }
