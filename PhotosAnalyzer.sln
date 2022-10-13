@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotosAnalyzer", "FirstFunctionApp\PhotosAnalyzer.csproj", "{37B41F74-A3D6-4920-84A6-857D9861B48A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotosAnalyzer", "PhotosAnalyzer\PhotosAnalyzer.csproj", "{37B41F74-A3D6-4920-84A6-857D9861B48A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotosAnalyzer.AnalyzerService.Abstarctions", "Photos.AnalyzerService.Abstarctions\PhotosAnalyzer.AnalyzerService.Abstarctions.csproj", "{CEA8CC5D-0F5D-407A-A525-34E81CA2044F}"
 EndProject
